@@ -1,0 +1,1 @@
+// ratingRoutes.js

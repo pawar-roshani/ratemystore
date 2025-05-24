@@ -1,0 +1,1 @@
+// ratingController.js
